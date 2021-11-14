@@ -52,6 +52,22 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.JunitTestingTest">
+    <configuration name="CountTest.count" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS612JunitTestingLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.CountTest" />
+      <option name="METHOD_NAME" value="count" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DivideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CS612JunitTestingLab" />
       <extension name="coverage">
@@ -98,21 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CS612JunitTestingLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testing" />
-      <option name="MAIN_CLASS_NAME" value="testing.SquareTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SquareTest.square" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CS612JunitTestingLab" />
       <extension name="coverage">
@@ -132,7 +133,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.JunitTestingTest" />
-        <item itemvalue="JUnit.SquareTest" />
+        <item itemvalue="JUnit.CountTest.count" />
         <item itemvalue="JUnit.SquareTest.square" />
         <item itemvalue="JUnit.DivideTest.divide" />
         <item itemvalue="JUnit.DivideTest" />
@@ -151,6 +152,8 @@
       <workItem from="1636767856620" duration="1149000" />
       <workItem from="1636769054601" duration="14000" />
       <workItem from="1636769074894" duration="591000" />
+      <workItem from="1636773583693" duration="221000" />
+      <workItem from="1636774142118" duration="68000" />
     </task>
     <servers />
   </component>
